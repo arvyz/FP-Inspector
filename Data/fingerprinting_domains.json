@@ -14481,8 +14481,8 @@
             "top_url": "https://www.si.com/"
         },
         {
-            "script_url": "https://cdn.selectablemedia.com/tg/p/nNKBTXZy/js/sm_uber.js",
-            "top_url": "https://www.marthastewart.com/"
+          "top_url": "https://www.marthastewart.com/",
+          "script_url": "https://cdn.selectablemedia.com/tg/p/nNKBTXZy/js/sm_uber.js"
         },
         {
             "script_url": "https://cdn.selectablemedia.com/tg/p/nsPuedjs/js/sm_uber.js",
